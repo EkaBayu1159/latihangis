@@ -1,0 +1,2 @@
+# latihangis
+melakukan analisis
